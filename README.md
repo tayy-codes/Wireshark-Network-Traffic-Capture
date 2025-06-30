@@ -2,7 +2,7 @@
 Wireshark-based capture and protocol analysis. It includes live packet trace, identification of TCP, DNS, and QUIC traffic, and structured findings report.
 
 # Description
-This repository contains the deliverables for Task 5 of the Cyber Security Internship (Elevate Labs – Ministry of MSME). The task involved capturing real-time network packets using Wireshark and identifying key protocols in the traffic.
+This repository contains the packet capture file, report of identified protocols, and screenshots of filtered protocols. The task is assigned under a Cyber Security internship which involved capturing real-time network packets using Wireshark and identifying key protocols in the traffic.
 
 # Protocols Analyzed
 - TCP
